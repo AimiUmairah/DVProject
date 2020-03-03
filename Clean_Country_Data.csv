@@ -1,0 +1,161 @@
+Country,Year,Status,Life_Expectancy
+Bahrain,2015,Developing,76.9
+Bahrain,2014,Developing,76.8
+Bahrain,2013,Developing,76.7
+Bahrain,2012,Developing,76.5
+Bahrain,2011,Developing,76.1
+Bahrain,2010,Developing,76.1
+Bahrain,2009,Developing,76
+Bahrain,2008,Developing,75.8
+Bahrain,2007,Developing,75.6
+Bahrain,2006,Developing,75.5
+Bahrain,2005,Developing,75.3
+Bahrain,2004,Developing,75.2
+Bahrain,2003,Developing,75
+Bahrain,2002,Developing,74.9
+Bahrain,2001,Developing,74.7
+Bahrain,2000,Developing,74.5
+Brunei Darussalam,2015,Developing,77.7
+Brunei Darussalam,2014,Developing,77.6
+Brunei Darussalam,2013,Developing,77.1
+Brunei Darussalam,2012,Developing,78.3
+Brunei Darussalam,2011,Developing,77.4
+Brunei Darussalam,2010,Developing,76.9
+Brunei Darussalam,2009,Developing,76.8
+Brunei Darussalam,2008,Developing,77.2
+Brunei Darussalam,2007,Developing,76
+Brunei Darussalam,2006,Developing,76.3
+Brunei Darussalam,2005,Developing,76.2
+Brunei Darussalam,2004,Developing,76.4
+Brunei Darussalam,2003,Developing,76
+Brunei Darussalam,2002,Developing,74.8
+Brunei Darussalam,2001,Developing,74.7
+Brunei Darussalam,2000,Developing,74.4
+Cyprus,2015,Developed,85
+Cyprus,2014,Developed,83
+Cyprus,2013,Developed,81
+Cyprus,2012,Developed,80
+Cyprus,2011,Developed,79.7
+Cyprus,2010,Developed,79.5
+Cyprus,2009,Developed,79.3
+Cyprus,2008,Developed,79.1
+Cyprus,2007,Developed,78.9
+Cyprus,2006,Developed,78.8
+Cyprus,2005,Developed,78.7
+Cyprus,2004,Developed,78.6
+Cyprus,2003,Developed,78.5
+Cyprus,2002,Developed,78.4
+Cyprus,2001,Developed,78.2
+Cyprus,2000,Developed,78.1
+Japan,2015,Developed,83.7
+Japan,2014,Developed,83.5
+Japan,2013,Developed,83.5
+Japan,2012,Developed,83.3
+Japan,2011,Developed,82.5
+Japan,2010,Developed,83
+Japan,2009,Developed,83
+Japan,2008,Developed,82.7
+Japan,2007,Developed,82.6
+Japan,2006,Developed,82.4
+Japan,2005,Developed,82
+Japan,2004,Developed,82.1
+Japan,2003,Developed,81.9
+Japan,2002,Developed,81.8
+Japan,2001,Developed,81.5
+Japan,2000,Developed,81.1
+Maldives,2015,Developing,78.5
+Maldives,2014,Developing,78.2
+Maldives,2013,Developing,77.9
+Maldives,2012,Developing,77.6
+Maldives,2011,Developing,77.3
+Maldives,2010,Developing,76.7
+Maldives,2009,Developing,76.3
+Maldives,2008,Developing,75.9
+Maldives,2007,Developing,75.4
+Maldives,2006,Developing,75
+Maldives,2005,Developing,74.3
+Maldives,2004,Developing,73.4
+Maldives,2003,Developing,72.7
+Maldives,2002,Developing,71.8
+Maldives,2001,Developing,78
+Maldives,2000,Developing,69.6
+Oman,2015,Developing,76.6
+Oman,2014,Developing,76.4
+Oman,2013,Developing,76.2
+Oman,2012,Developing,76
+Oman,2011,Developing,75.8
+Oman,2010,Developing,75.6
+Oman,2009,Developing,75.4
+Oman,2008,Developing,75.2
+Oman,2007,Developing,74.9
+Oman,2006,Developing,74.7
+Oman,2005,Developing,74.3
+Oman,2004,Developing,74
+Oman,2003,Developing,73.6
+Oman,2002,Developing,73.3
+Oman,2001,Developing,72.9
+Oman,2000,Developing,72.6
+Qatar,2015,Developing,78.2
+Qatar,2014,Developing,78.1
+Qatar,2013,Developing,77.9
+Qatar,2012,Developing,77.8
+Qatar,2011,Developing,77.5
+Qatar,2010,Developing,77.3
+Qatar,2009,Developing,77
+Qatar,2008,Developing,76.8
+Qatar,2007,Developing,76.7
+Qatar,2006,Developing,76.6
+Qatar,2005,Developing,76.6
+Qatar,2004,Developing,76.6
+Qatar,2003,Developing,76.5
+Qatar,2002,Developing,76.4
+Qatar,2001,Developing,76.3
+Qatar,2000,Developing,76.2
+Singapore,2015,Developed,83.1
+Singapore,2014,Developed,82.9
+Singapore,2013,Developed,82.7
+Singapore,2012,Developed,82.5
+Singapore,2011,Developed,82.2
+Singapore,2010,Developed,82
+Singapore,2009,Developed,81.7
+Singapore,2008,Developed,81.4
+Singapore,2007,Developed,81.1
+Singapore,2006,Developed,87
+Singapore,2005,Developed,82
+Singapore,2004,Developed,79.7
+Singapore,2003,Developed,79.3
+Singapore,2002,Developed,79
+Singapore,2001,Developed,78.7
+Singapore,2000,Developed,78.3
+South Korea,2015,Developing,82.3
+South Korea,2014,Developing,82
+South Korea,2013,Developing,81.7
+South Korea,2012,Developing,81.2
+South Korea,2011,Developing,81.1
+South Korea,2010,Developing,87
+South Korea,2009,Developing,86
+South Korea,2008,Developing,83
+South Korea,2007,Developing,79.8
+South Korea,2006,Developing,79.4
+South Korea,2005,Developing,78.7
+South Korea,2004,Developing,78.2
+South Korea,2003,Developing,77.6
+South Korea,2002,Developing,77.1
+South Korea,2001,Developing,76.7
+South Korea,2000,Developing,76
+United Arab Emirates,2015,Developing,77.1
+United Arab Emirates,2014,Developing,76.9
+United Arab Emirates,2013,Developing,76.7
+United Arab Emirates,2012,Developing,76.5
+United Arab Emirates,2011,Developing,76.3
+United Arab Emirates,2010,Developing,76.2
+United Arab Emirates,2009,Developing,76
+United Arab Emirates,2008,Developing,75.8
+United Arab Emirates,2007,Developing,75.6
+United Arab Emirates,2006,Developing,75.4
+United Arab Emirates,2005,Developing,75.3
+United Arab Emirates,2004,Developing,75.1
+United Arab Emirates,2003,Developing,74.9
+United Arab Emirates,2002,Developing,74.7
+United Arab Emirates,2001,Developing,74.5
+United Arab Emirates,2000,Developing,74.2
